@@ -1,0 +1,10 @@
+[
+	{"id": "3hj2klaGsh", "name": "Father", "dateOfBirth": "", "placeOfBirth": "", "lastOccupation": "", "bio": "", "photos": ["src1", "src2"], "email": "kalim.fleet@gmail.com", "sessionId": ""},
+	{"id": "Chh3jk56h7", "name": "Mother", "dateOfBirth": "", "placeOfBirth": "", "lastOccupation": "", "bio": "", "photos": ["src1", "src2"]},
+	{"id": "9klffHhfkd5", "name": "Child1", "dateOfBirth": "", "placeOfBirth": "", "lastOccupation": "", "bio": "", "photos": ["src1", "src2"]},
+	{"id": "t773L373gg", "name": "Child1's Spouse", "dateOfBirth": "", "placeOfBirth": "", "lastOccupation": "", "bio": "", "photos": ["src1", "src2"]},
+	{"id": "h4k$ee27kS", "name": "Grandchild1", "dateOfBirth": "", "placeOfBirth": "", "lastOccupation": "", "bio": "", "photos": ["src1", "src2"]},
+	{"id": "Y5kls3kkkh$", "name": "Child2", "dateOfBirth": "", "placeOfBirth": "", "lastOccupation": "", "bio": "", "photos": ["src1", "src2"]},
+	{"id": "rYsruiwT$hk", "name": "Child2's Spouse", "dateOfBirth": "", "placeOfBirth": "", "lastOccupation": "", "bio": "", "photos": ["src1", "src2"]},
+	{"id": "0I7hktowWc", "name": "Grandchild2", "dateOfBirth": "", "placeOfBirth": "", "lastOccupation": "", "bio": "", "photos": ["src1", "src2"]}
+]

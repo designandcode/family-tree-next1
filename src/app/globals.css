@@ -1,0 +1,265 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+html {
+    background: beige;
+}
+
+.App {
+    background: beige;
+    position: relative;
+    margin: 12px;
+}
+
+@media (min-width: 451px) {
+    .App {
+        margin: 24px;
+    }
+}
+
+img {
+    max-width: 100%;
+}
+
+foreignObject {
+    /* width: 100% !important; */
+    /* height: 25px; */
+    cursor: pointer;
+}
+
+.linage {
+    fill: none;
+    stroke: black;
+}
+.marriage {
+    fill: none;
+    stroke: black;
+}
+.node {
+    background-color: lightblue;
+    border-style: solid;
+    border-width: 1px;
+    background: black;
+    color: wheat;
+    /* width: max-content !important;
+    padding: 0 20px; */
+}
+.nodeText{
+    font: 10px sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* display: flex;
+    flex-wrap: nowrap;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center; */
+}
+.nodeText img {
+    width: 16px;
+    border-radius: 50%;
+    height: 16px;
+    object-fit: cover;
+    object-position: top;
+    margin-left: 6px;
+}
+.marriageNode {
+    background-color: black;
+    border-radius: 50%;
+}
+
+.modal {
+    width: 90vw;
+    height: 90vh;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.modal-open {
+    /* display: flex; */
+}
+
+.modal-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.member-bio {
+    width: 90%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+}
+
+@media (min-width: 768px) {
+    
+    .member-bio {
+        width: 80%;
+        height: 80%;
+        flex-direction: row;
+    }
+}
+
+.member-bio--content-margin-bottom {
+    margin-bottom: 18px;
+}
+
+.member-bio--content-bold {
+    font-weight: 700;
+}
+
+.member-bio--content-label {
+    color: #eeeffe;
+    opacity: 0.7;
+}
+
+.member-bio--socials {
+    width: 100%;
+    flex-shrink: 0;
+    margin-right: 36px;
+    max-width: 340px;
+}
+
+@media (min-width: 451px) {
+    .member-bio--socials {
+        width: 60%;
+    }
+}
+
+@media (min-width: 768px) {
+    .member-bio--socials {
+        width: 40%;
+    }
+}
+
+.member-bio--pic-main {
+    border-radius: 50%;
+    width: 90%;
+    overflow: hidden;
+    aspect-ratio: 1/1;
+}
+
+.member-bio--pic-main img {
+    width: 100%;
+}
+
+.member-bio--stats {
+    display: flex;
+    justify-content: space-between;
+}
+
+.member-bio--profile {
+    overflow: scroll;
+}
+
+.member-bio--content-pics {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.member-bio-links {
+    display: flex;
+    column-gap: 12px;
+}
+
+.member-bio-social-link {
+    width: 32px;
+}
+
+.connector {
+    position: absolute;
+    top: 0;
+    left: 6px;
+    height: 100%;
+    border-left: 1px solid;
+    display: none;
+}
+
+.spacer-3 .connector {
+    left: 36px;
+    display: block;
+}
+
+.spacer-1 {
+    margin-left: 0;
+}
+
+.spacer-3 {
+    margin-left: 24px;
+}
+
+.spacer-5 {
+    margin-left: 54px;
+}
+
+@media (min-width: 1080px) {
+    .spacer-5 {
+        display: inline-flex !important;
+    } 
+}
+
+.spacer-7 {
+    margin-left: 84px;
+}
+
+.join {
+    display: flex;
+    /* position: relative; */
+    padding-bottom: 18px;
+}
+
+@media (min-width: 451px) {
+    .join {
+        font-size: 30px;
+        padding-bottom: 24px;
+    }
+}
+
+.member {
+    background: black;
+    color: white;
+    padding: 12px;
+    display: inline-flex;
+    align-items: center;
+    max-width: 188px;
+}
+
+.spouse {
+    display: flex;
+    align-items: center;
+}
+
+.spacer-join {
+    height: 1px;
+    width: 30px;
+    display: block;
+    background: black;
+}
+
+.tree-pic {
+    width: 30px;
+    border-radius: 50%;
+    height: 30px;
+    object-fit: cover;
+    object-position: top;
+    margin-left: 6px;
+}
+
+@media (min-width: 451px) {
+    .tree-pic {
+        width: 48px;
+        height: 48px;
+    }
+}
+

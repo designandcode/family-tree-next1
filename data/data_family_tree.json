@@ -1,0 +1,41 @@
+[{
+	  "name": "Rickard",
+	  "class": "node",
+	  "textClass": "nodeText",
+	  "depthOffset": 1,
+	  "marriages": [{
+	    "spouse": {"name": "Lyarra"},
+	    "children": [
+		{
+	      	"name": "Eddard (Ned)",
+			"marriages": [{
+				"spouse": {"name": "Catelyn"},
+				"children": [{
+					"name": "Robb"
+				},{
+					"name": "Sansa"
+				},{
+					"name": "Arya"
+				},{
+					"name": "Bran"
+				},{
+					"name": "Rickon"
+				}]
+			}]
+	    },
+		{
+	      	"name": "Lyanna",
+			"marriages": [{
+				"spouse": {"name": "Rhaegar"},
+				"children": [{
+					"name": "Aegon"
+				}]
+			}]
+	    },{
+	      	"name": "Benjen"
+	    },{
+			"name": "Brandon"
+	  	}]
+	  }],
+	  "extra": {}
+	}]

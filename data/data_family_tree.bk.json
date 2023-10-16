@@ -1,0 +1,41 @@
+[{
+	  "name": "Rickard Stark",
+	  "class": "node",
+	  "textClass": "nodeText",
+	  "depthOffset": 1,
+	  "marriages": [{
+	    "spouse": {"name": "Lyarra Stark"},
+	    "children": [
+		{
+	      	"name": "Eddard (Ned) Stark",
+			"marriages": [{
+				"spouse": {"name": "Catelyn Tully"},
+				"children": [{
+					"name": "Robb Stark"
+				},{
+					"name": "Sansa Stark"
+				},{
+					"name": "Arya Stark"
+				},{
+					"name": "Brandon Stark"
+				},{
+					"name": "Rickon Stark"
+				}]
+			}]
+	    },
+		{
+	      	"name": "Lyanna Stark",
+			"marriages": [{
+				"spouse": {"name": "Rhaegar Targaryen"},
+				"children": [{
+					"name": "Aegon Targaryen"
+				}]
+			}]
+	    },{
+	      	"name": "Benjen Stark"
+	    },{
+			"name": "Brandon Stark"
+	  	}]
+	  }],
+	  "extra": {}
+	}]

@@ -1,0 +1,15 @@
+[
+    { "name": "Rickard", "level": 1, "id": "3hj2klaGsh", "spouseId": "Chh3jk56h7", "spouseName": "Lyarra"},
+      { "name": "Eddard", "level": 3, "id": "9klffHhfkd5", "spouseId": "t773L373gg", "spouseName": "Catelyn" },
+        { "name": "Robb", "level": 5, "id": "h4k$ee27kS", "spouseId": "t773L373gg", "spouseName": "Catelyn"},
+          { "name": "Sansa", "level": 7, "id": "Y5kls3kkkh$" },
+          { "name": "Arya", "level": 7, "id": "rYsruiwT$hk" },
+        { "name": "Sansa", "level": 5, "id": "Y5kls3kkkh$" },
+        { "name": "Arya", "level": 5, "id": "rYsruiwT$hk" },
+        { "name": "Bran", "level": 5, "id": "0I7hktowWc" },
+        { "name": "Rickon", "level": 5, "id": "hye6seTdob" },
+      { "name": "Lyanna", "level": 3, "id": "7sj33ls9ha", "spouseId": "fo8sbbea43", "spouseName": "Rhaegar" },
+        { "name": "Aegon", "level": 5, "id": "myw4cghas4" },
+      { "name": "Benjen", "level": 3, "id": "4dM3onerTs" },
+      { "name": "Brandon", "level": 3, "id": "u67eDbre812" }
+  ]
