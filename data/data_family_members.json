@@ -7,9 +7,9 @@
 		"lastOccupation": "Lord",
 		"bio": "Lord {Rickard Stark}, the former head of the family. Lord of Winterfell and Warden of the North. Burned alive with wildfire on the orders of Aerys II.",
 		"photos": [
-			"./image/rickard/rickard1.webp",
-			"./image/rickard/Rickard_arrest.webp",
-			"./image/rickard/Aerys_Rickard_Brandon.webp"
+			"image/rickard/rickard1.webp",
+			"image/rickard/Rickard_arrest.webp",
+			"image/rickard/Aerys_Rickard_Brandon.webp"
 		],
 		"email": "",
 		"phone": "",
@@ -32,7 +32,7 @@
 		"lastOccupation": "Lady",
 		"bio": "",
 		"photos": [
-			"./image/lyarra/lyarra.webp"
+			"image/lyarra/lyarra.webp"
 		],
 		"socials": [
 			{"platform": "facebook", "link": ""},
@@ -53,8 +53,8 @@
 		"lastOccupation": "Lord",
 		"bio": "Lord {Eddard Stark}, his second son, commonly called \"Ned Stark\", the former head of the family. Lord of Winterfell, Warden of the North, Hand of the King to Robert I, and briefly Lord Regent of the Seven Kingdoms and Protector of the Realm for Joffrey I. Executed under a false charge of treason by King Joffrey Baratheon.",
 		"photos": [
-			"./image/ned/Eddard_Stark.webp",
-			"./image/ned/Ned_Catelyn_wedding.webp"
+			"image/ned/Eddard_Stark.webp",
+			"image/ned/Ned_Catelyn_wedding.webp"
 		],
 		"socials": [
 			{"platform": "facebook", "link": ""},
@@ -75,13 +75,13 @@
 		"lastOccupation": "Lady",
 		"bio": "Lady {Catelyn}, his wife of House Tully. Murdered by Walder Rivers at the Red Wedding.",
 		"photos": [
-			"./image/catelyn/CatelynS3Promo.webp",
-			"./image/catelyn/Winter_is_Coming_Catelyn_and_Cersei.webp",
-			"./image/catelyn/Catelynveil.webp",
-			"./image/catelyn/Catelyn-arrive.webp",
-			"./image/catelyn/Catelyn_Stark_1x02.webp",
-			"./image/catelyn/Catelyn_1x01.webp",
-			"./image/catelyn/Catandned.webp"
+			"image/catelyn/CatelynS3Promo.webp",
+			"image/catelyn/Winter_is_Coming_Catelyn_and_Cersei.webp",
+			"image/catelyn/Catelynveil.webp",
+			"image/catelyn/Catelyn-arrive.webp",
+			"image/catelyn/Catelyn_Stark_1x02.webp",
+			"image/catelyn/Catelyn_1x01.webp",
+			"image/catelyn/Catandned.webp"
 		],
 		"socials": [
 			{"platform": "facebook", "link": ""},
@@ -102,11 +102,11 @@
 		"lastOccupation": "King",
 		"bio": "King {Robb Stark}, their eldest son. Called \"the Young Wolf\" and \"the King Who Lost the North\", Lord of Winterfell and King in the North. Betrayed and murdered by Roose Bolton at the Red Wedding.",
 		"photos": [
-			"./image/king_robb/S3E9_Robb_Stark_main.webp",
-			"./image/king_robb/Robb_Bran_and_wolves.webp",
-			"./image/king_robb/Robb_1x02.webp",
-			"./image/king_robb/Lord_Robb_in_Winterfell.webp",
-			"./image/king_robb/Branandrobb.webp"
+			"image/king_robb/S3E9_Robb_Stark_main.webp",
+			"image/king_robb/Robb_Bran_and_wolves.webp",
+			"image/king_robb/Robb_1x02.webp",
+			"image/king_robb/Lord_Robb_in_Winterfell.webp",
+			"image/king_robb/Branandrobb.webp"
 		],
 		"socials": [
 			{"platform": "facebook", "link": ""},
@@ -127,12 +127,12 @@
 		"lastOccupation": "Queen",
 		"bio": "Queen Sansa I Stark, their oldest daughter, the current head of the family. Former wife of Tyrion Lannister and the widow of Lord Ramsay Bolton. Following the Battle of King's Landing and the Assassination of Daenerys Targaryen at the hands of her cousin, Jon, Sansa declares the North independent once again, thereby making her head of the family. Queen in the North and Lady of Winterfell.",
 		"photos": [
-			"./image/sansa/QueenSansa.PNG.webp",
-			"./image/sansa/Sansa.webp",
-			"./image/sansa/Sansa_Stark_1x08.webp",
-			"./image/sansa/Sansa_in_the_Camp.webp",
-			"./image/sansa/Sansa_in_Kings_Landing.webp",
-			"./image/sansa/Cripples-Bastards-and-Broken-Things-sansa-stark-23083167-1280-720.webp"
+			"image/sansa/QueenSansa.PNG.webp",
+			"image/sansa/Sansa.webp",
+			"image/sansa/Sansa_Stark_1x08.webp",
+			"image/sansa/Sansa_in_the_Camp.webp",
+			"image/sansa/Sansa_in_Kings_Landing.webp",
+			"image/sansa/Cripples-Bastards-and-Broken-Things-sansa-stark-23083167-1280-720.webp"
 		],
 		"socials": [
 			{"platform": "facebook", "link": ""},
@@ -153,9 +153,9 @@
 		"lastOccupation": "Princess",
 		"bio": "Princess Arya Stark, their youngest daughter, the current heir to the Kingdom of the North. Slew the Night King and thus ended the Great War. Following the Battle of King's Landing, Arya sails to discover what lies westward, where the maps of the known world end.",
 		"photos": [
-			"./image/arya/AryaShipIronThrone.PNG.webp",
-			"./image/arya/Nymeria-and-Arya-Stark-game-of-thrones-direwolves-26320407-498-280.webp",
-			"./image/arya/Arya_Ned_and_Syrio_1x03.webp"
+			"image/arya/AryaShipIronThrone.PNG.webp",
+			"image/arya/Nymeria-and-Arya-Stark-game-of-thrones-direwolves-26320407-498-280.webp",
+			"image/arya/Arya_Ned_and_Syrio_1x03.webp"
 		],
 		"socials": [
 			{"platform": "facebook", "link": ""},
@@ -176,12 +176,12 @@
 		"lastOccupation": "King",
 		"bio": "King Brandon I Stark, their second son, commonly known as \"Bran\", and called \"Bran the Broken.\" Left paraplegic due to Jaime Lannister pushing him out of a tower, and gave up his claim to Winterfell after becoming the new Three-Eyed Raven. After the death of Daenerys Targaryen, Bran is elected as the King of the Andals, the Rhoynar, and the First Men, Lord of the Six Kingdoms and Protector of the Realm by the Great Council of 305 AC.",
 		"photos": [
-			"./image/bran/KingBran.PNG.webp",
-			"./image/bran/Tyrion_and_Bran_1x04.webp",
-			"./image/bran/Jon_Bran_and_Robb.webp",
-			"./image/bran/bran.webp",
-			"./image/bran/Bran_and_Old_Nan_1x02.webp",
-			"./image/bran/Bran_and_Luwin.webp"
+			"image/bran/KingBran.PNG.webp",
+			"image/bran/Tyrion_and_Bran_1x04.webp",
+			"image/bran/Jon_Bran_and_Robb.webp",
+			"image/bran/bran.webp",
+			"image/bran/Bran_and_Old_Nan_1x02.webp",
+			"image/bran/Bran_and_Luwin.webp"
 		],
 		"socials": [
 			{"platform": "facebook", "link": ""},
@@ -202,8 +202,8 @@
 		"lastOccupation": "Lord",
 		"bio": "{Rickon Stark}, their youngest son. Shot with an arrow by Ramsay Bolton moments before the Battle of the Bastards.",
 		"photos": [
-			"./image/rickon/rickon.webp",
-			"./image/rickon/Rickson_Stark_and_shaggydog.webp"
+			"image/rickon/rickon.webp",
+			"image/rickon/Rickson_Stark_and_shaggydog.webp"
 		],
 		"socials": [
 			{"platform": "facebook", "link": ""},
@@ -224,7 +224,7 @@
 		"lastOccupation": "Lady",
 		"bio": "{Lyanna Stark}, his only daughter. Once betrothed to {Robert Baratheon}, said to be abducted by Rhaegar Targaryen, though in reality eloped with him and was married to him in secret. Died at the Tower of Joy giving birth to her son Jon, whom she named \"Aegon Targaryen.\"",
 		"photos": [
-			"./image/lyanna/Lyanna_S7_E7.webp"
+			"image/lyanna/Lyanna_S7_E7.webp"
 		],
 		"socials": [
 			{"platform": "facebook", "link": ""},
@@ -245,12 +245,12 @@
 		"lastOccupation": "Prince",
 		"bio": "Prince Rhaegar Targaryen, the last Prince of Dragonstone, was the eldest son and heir to King Aerys II Targaryen, the Mad King. He was the older brother of Viserys and Daenerys Targaryen and the husband of Elia Martell, with whom he had two children, Rhaenys and Aegon. He also fathered Jon Snow with Lyanna Stark, whom he secretly married following an annulment from Elia.",
 		"photos": [
-			"./image/Rhaegar/Rhaeger_main_infobox.webp",
-			"./image/Rhaegar/HL4_-_RR_Oberyn_Rhaegar_Mad_King.webp",
-			"./image/Rhaegar/HL5_RR_Barristan_Rhaegar_heads_to_Trident_closeup.webp",
-			"./image/Rhaegar/HL5_RR_Barristan_Tourney_of_Harrenhal_Rhaegar_Lyanna.webp",
-			"./image/Rhaegar/HL6_Great_Tourney_of_Harrenhal_Rhaegar_harp_Lyanna.webp",
-			"./image/Rhaegar/Rhaeger_lyanna_finale1.webp"
+			"image/Rhaegar/Rhaeger_main_infobox.webp",
+			"image/Rhaegar/HL4_-_RR_Oberyn_Rhaegar_Mad_King.webp",
+			"image/Rhaegar/HL5_RR_Barristan_Rhaegar_heads_to_Trident_closeup.webp",
+			"image/Rhaegar/HL5_RR_Barristan_Tourney_of_Harrenhal_Rhaegar_Lyanna.webp",
+			"image/Rhaegar/HL6_Great_Tourney_of_Harrenhal_Rhaegar_harp_Lyanna.webp",
+			"image/Rhaegar/Rhaeger_lyanna_finale1.webp"
 		],
 		"socials": [
 			{"platform": "facebook", "link": ""},
@@ -271,13 +271,13 @@
 		"lastOccupation": "King",
 		"bio": "Jon Snow; her son. Born Prince Aegon Targaryen, called \"the White Wolf.\" Raised by Eddard Stark as his own, claiming Jon as his illegitimate son to protect him from being killed by Robert Baratheon. Jon volunteered to join the Night's Watch and was later elected as the 998th Lord Commander. Stabbed to death in a mutiny but later resurrected by Melisandre and relieved of his vows. Named the King in the North by the bannermen of House Stark and House Arryn after their victory at the Battle of the Bastards. Was the Warden of the North after bending the knee to Daenerys Targaryen following the wight hunt. After the Battle of King's Landing, and Daenerys's subsequent assassination in the throne room by Jon, Jon was exiled to the Night's Watch by his cousin and new King, Bran, in order to appease the Unsullied, who held him prisoner.",
 		"photos": [
-			"./image/jon_snow/JonSnow8x06.PNG.webp",
-			"./image/jon_snow/Winter_is_Coming_Tyrion_and_Jon.webp",
-			"./image/jon_snow/Kingsroad3_jon_snow.webp",
-			"./image/jon_snow/jon_snow.webp",
-			"./image/jon_snow/Jon_Robb_and_Theon_1x01.webp",
-			"./image/jon_snow/Jaime_Lannister_and_Jon_Snow_1x02.webp",
-			"./image/jon_snow/Game-of-Thrones-S6-Ep10-The-Winds-of-Winter-Baby-Jon-Snow.webp"
+			"image/jon_snow/JonSnow8x06.PNG.webp",
+			"image/jon_snow/Winter_is_Coming_Tyrion_and_Jon.webp",
+			"image/jon_snow/Kingsroad3_jon_snow.webp",
+			"image/jon_snow/jon_snow.webp",
+			"image/jon_snow/Jon_Robb_and_Theon_1x01.webp",
+			"image/jon_snow/Jaime_Lannister_and_Jon_Snow_1x02.webp",
+			"image/jon_snow/Game-of-Thrones-S6-Ep10-The-Winds-of-Winter-Baby-Jon-Snow.webp"
 		],
 		"socials": [
 			{"platform": "facebook", "link": ""},
@@ -298,11 +298,11 @@
 		"lastOccupation": "First Ranger",
 		"bio": "{Benjen Stark}, his youngest son, former First Ranger of the Night's Watch. Sacrificed himself to rescue his nephew Jon Snow from the army of the dead beyond the Wall.",
 		"photos": [
-			"./image/benjen_stark/610_Benjen_Promo_Crop.webp",
-			"./image/benjen_stark/706_Jon_Benjen.webp",
-			"./image/benjen_stark/Jon_and_Benjen_1x03.webp",
-			"./image/benjen_stark/The_Winds_of_Winter_25Benjin.webp",
-			"./image/benjen_stark/Winter_is_Coming_Ned_and_Benjen.webp"
+			"image/benjen_stark/610_Benjen_Promo_Crop.webp",
+			"image/benjen_stark/706_Jon_Benjen.webp",
+			"image/benjen_stark/Jon_and_Benjen_1x03.webp",
+			"image/benjen_stark/The_Winds_of_Winter_25Benjin.webp",
+			"image/benjen_stark/Winter_is_Coming_Ned_and_Benjen.webp"
 		],
 		"socials": [
 			{"platform": "facebook", "link": ""},
@@ -323,9 +323,9 @@
 		"lastOccupation": "Lord",
 		"bio": "{Brandon Stark}, his eldest son and heir, called \"the Wild Wolf.\" Formerly betrothed to Catelyn Tully. Killed alongside his father on the orders of the Aerys II.",
 		"photos": [
-			"./image/brandon/BrandonStark1.webp",
-			"./image/brandon/Petyr_vs_Brandon.webp",
-			"./image/brandon/Aerys_Rickard_Brandon.webp"
+			"image/brandon/BrandonStark1.webp",
+			"image/brandon/Petyr_vs_Brandon.webp",
+			"image/brandon/Aerys_Rickard_Brandon.webp"
 		],
 		"socials": [
 			{"platform": "facebook", "link": ""},
