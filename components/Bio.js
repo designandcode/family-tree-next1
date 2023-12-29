@@ -18,7 +18,7 @@ const Socials = props => {
 
     const socials = media.filter(social => social.link);
 
-    return socials.map(social => <a href={social.link}><img className="member-bio-social-link" src={`/images/${social.platform}.png`} /></a>)
+    return socials.map(social => <a href={social.link}><img className="member-bio-social-link" src={`/image/${social.platform}.png`} /></a>)
     
 }
 
